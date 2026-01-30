@@ -1,0 +1,33 @@
+{
+  "name": "solar-weather",
+  "version": "1.0.0",
+  "description": "Monitor solar weather conditions including geomagnetic storms, solar flares, aurora forecasts, and solar wind data. Uses NOAA Space Weather Prediction Center real-time data.",
+  "main": "solar-weather.py",
+  "keywords": [
+    "solar-weather",
+    "space-weather",
+    "aurora",
+    "geomagnetic-storm",
+    "solar-flare",
+    "ham-radio",
+    "noaa",
+    "openclaw",
+    "clawdbot",
+    "skill"
+  ],
+  "author": "captmarbles",
+  "license": "MIT",
+  "clawdhub": {
+    "skill": {
+      "name": "solar-weather",
+      "version": "1.0.0",
+      "description": "Monitor space weather conditions and aurora forecasts",
+      "category": "science",
+      "tags": ["solar-weather", "space-weather", "aurora", "ham-radio"]
+    }
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capt-marbles/solar-weather"
+  }
+}
