@@ -20,7 +20,7 @@ Monitor space weather conditions in real-time! Track solar flares, geomagnetic s
 clawdhub install solar-weather
 
 # Via GitHub
-git clone https://github.com/capt-marbles/solar-weather ~/.clawdbot/skills/solar-weather
+git clone https://github.com/capt-marbles/solar-weather ~/.openclaw/skills/solar-weather
 ```
 
 ### Basic Usage
