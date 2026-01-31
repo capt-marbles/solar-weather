@@ -1,7 +1,7 @@
 ---
 name: solar-weather
 description: Monitor solar weather conditions including geomagnetic storms, solar flares, aurora forecasts, and solar wind data. Uses NOAA Space Weather Prediction Center real-time data.
-version: 1.0.0
+version: 1.0.1
 author: captmarbles
 ---
 
